@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 ¡Hola! Soy Triana
 
-<!--
-**Trii31/Trii31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un/a entusiasta de la tecnología y la creatividad digital. Me apasiona construir cosas útiles, aprender constantemente y explorar nuevas ideas.
 
-Here are some ideas to get you started:
+🧠 Sobre mí
+   - 🎓 DAM en IES Julio Verne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - 💻 Interesado/a en ia
+
+   - 🌱 Aprendiendo ahora: tecnología
+
+🚀 Proyectos destacados
+   - 🎨 [Proyecto 1] – [Breve descripción]
+         React, Node.js, MongoDB
+
+   - 🧠 [Proyecto 2] – [Breve descripción]
+         Python, TensorFlow
+
+🛠️ Tecnologías favoritas
+JavaScript · Python · React · Tailwind · Git · Figma
